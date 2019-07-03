@@ -5,14 +5,14 @@ Applied Machine Learning
 
 ## Machine Learing and Deep learning
 ### 机器学习基础算法 
-#### 01线性回归
-#### 02逻辑回归
-#### 03朴素贝叶斯
-#### 04决策树
-#### 05kmeans
-#### 06KNN
-#### 07SVM
-#### 08随机森林
+#### 01 线性回归
+#### 02 逻辑回归
+#### 03 朴素贝叶斯
+#### 04 决策树
+#### 05 kmeans
+#### 06 KNN
+#### 07 SVM
+#### 08 随机森林
 后面会把GBDT、XGBoost、LightGBM的代码写好发上来
 
 ## 量化交易
