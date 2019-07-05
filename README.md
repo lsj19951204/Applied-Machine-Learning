@@ -3,7 +3,7 @@ Applied Machine Learning
 作者是一只从金融学转型，刚刚入门机器学习的小朋友。
 不定期会把一些自己写的代码（大多是结合案例）传上来
 
-## Machine Learing and Deep learning
+## Machine Learing and Deep Learning
 ### 机器学习基础算法 
 #### 01 线性回归
 #### 02 逻辑回归
